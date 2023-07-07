@@ -1,6 +1,4 @@
 # projeto-pokemon-
-projeto pokemon do mapa dev week 
-
 
 site: 
 

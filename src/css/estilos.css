@@ -94,14 +94,6 @@ main .cartao-pokemon .tipo {
 	border-radius: 10px;
 }
 
-.grama {
-	background-color: #7ac74c;
-}
-
-.veneno {
-	background-color: #df67ddfb;
-}
-
 .fogo {
 	background-color: #ee8130;
 }
@@ -110,8 +102,20 @@ main .cartao-pokemon .tipo {
 	background-color: #6390f0;
 }
 
-.inseto {
-	background-color: #a6b91a;
+.Psiquico {
+	background-color: #8000809c;
+}
+
+.lutador{
+	background-color: #ff0000ab;
+}
+
+.terra{
+	background-color: #964b00c7;
+}
+
+.fantasma{
+	background-color: #541a8ba2;
 }
 
 main .descricao {
